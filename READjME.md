@@ -16,9 +16,17 @@
 
 ## About
 
-I'm an Information Systems student at TU Munich. My work sits at the intersection of **finance, audit, and engineering** — I've built physics-ML football analytics systems for FIFA/DFL competitions, developed AR/VR spatial interfaces for Apple Vision Pro, and conducted financial audits at PwC and Crowe-Kleeberg.
+Information Systems @ TUM, BSc. , MSc starting 2026.
 
-I move fluidly between writing Python for probabilistic models, Swift for visionOS apps, SQL for audit analytics, and orchestrating multi-agent systems. I'm drawn to problems that require both analytical rigour and technical execution — the kind most people specialize away from.
+I discover what I like by tearing into it. My background is a deliberate collision of two very different spaces.
+
+On the technical side, I built software, ML systems, spatial interfaces, and hardware by always gravitating toward the friction where a model is forced to respect physical reality.
+
+On the corporate side, I've navigated accounting, controlling, consulting, audit, and M&A. I care about the sharp end of the data: the exact moment an analysis dictates a decision someone actually has to make.
+
+There was no master plan, just a relentless curiosity. Now, I'm looking at the space between those worlds and starting to build something completely new.
+
+
 
 ---
 
@@ -26,7 +34,7 @@ I move fluidly between writing Python for probabilistic models, Swift for vision
 
 | Period | Role | Focus |
 |--------|------|--------|
-| Apr 2025 – Present | **Finance Intern @ PwC** | End-to-end audits, M&A due diligence, IPO benchmarking |
+| Apr 2025 – Present | **Finance Intern @ PwC** | End-to-end audits, M&A due diligence, IPO Financial due Dilligence |
 | Jul 2024 – Mar 2025 | **Auditing Working Student @ Crowe-Kleeberg** | IT audit, data analytics, KPI dashboards |
 | Apr 2024 – Aug 2024 | **Software Engineer Intern @ Apple / MaibornWolff / TUM** | visionOS, SwiftUI, AR/VR, Apple Vision Pro |
 | Apr 2024 – May 2024 | **Consulting Intern @ Zenport GmbH** | Market analysis, financial modeling |
